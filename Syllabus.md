@@ -2,7 +2,7 @@
 
 | Date               | Topic                                                                         | Type    | Activity                       |
 |--------------------|-------------------------------------------------------------------------------|---------|--------------------------------|
-| **02/26/2019**     | [Introduction](TBD) | Lecture |                                |
+| **02/26/2019**     | [Introduction](https://softsec.kaist.ac.kr/depot/sangkilc/is521/01-Intro.pdf) | Lecture |                                |
 | **02/28/2019**     | Git                                                                           | Lecture | [activity](Activities/0228.md) |
 | **03/05/2019**     |                                                                               |         |                                |
 | **03/07/2019**     |                                                                               |         |                                |
