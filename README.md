@@ -8,7 +8,7 @@ every activity, and push their results to Github.
 
 ### Syllabus
 
-Detailed syllabus should be found [here](Syllabus.md)
+Detailed syllabus should be found [here](Syllabus.md).
 
 ### TAs
 
