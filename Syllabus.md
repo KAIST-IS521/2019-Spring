@@ -10,15 +10,15 @@
 | **03/14/2019**     | [PGP](https://softsec.kaist.ac.kr/depot/sangkilc/is521/04-PGP.pdf)                   | Lecture      | [activity](Activities/0314.md) |
 | **03/19/2019**     | Team Up                                                                              | -            | activity                       |
 | **03/21/2019**     | Team-based S/W Design 1                                                              | -            |                                |
-| **03/26/2019**     | Team-based S/W Design 2                                                              | Presentation |                                |
+| **03/26/2019**     | Team-based S/W Design 2                                                              | Presentation | activity                       |
 | **03/28/2019**     | Team-based S/W Design 3                                                              | -            |                                |
 | **04/02/2019**     | Team-based S/W Design 4                                                              | -            |                                |
-| **04/04/2019**     | Team-based S/W Design 5                                                              | Presentation |                                |
-| **04/09/2019**     | Security Auditing                                                                    |              |                                |
-| **04/11/2019**     | Midterm Presentation                                                                 | Presentation |                                |
+| **04/04/2019**     | Team-based S/W Design 5                                                              | Presentation | activity                       |
+| **04/09/2019**     | Security Auditing                                                                    | -            |                                |
+| **04/11/2019**     | Security Auditing                                                                    | -            |                                |
 | ~~**04/16/2019**~~ | Midterm Week                                                                         | -            | -                              |
 | ~~**04/18/2019**~~ | Midterm Week                                                                         | -            | -                              |
-| **04/23/2019**     |                                                                                      |              |                                |
+| **04/23/2019**     | Midterm Presentation                                                                 | Presentation | activity                       |
 | **04/25/2019**     |                                                                                      |              |                                |
 | **04/30/2019**     |                                                                                      |              |                                |
 | **05/02/2019**     |                                                                                      |              |                                |
