@@ -1,4 +1,4 @@
-### 2019 Spring Sylabus (tentative)
+### 2019 Spring Syllabus (tentative)
 
 | Date               | Topic                                                                                | Type         | Activity                       |
 |--------------------|--------------------------------------------------------------------------------------|--------------|--------------------------------|
@@ -8,9 +8,9 @@
 | **03/07/2019**     | Presentation Preparation                                                             | -            |                                |
 | **03/12/2019**     | Presentation                                                                         | Presentation |                                |
 | **03/14/2019**     | [PGP](https://softsec.kaist.ac.kr/depot/sangkilc/is521/04-PGP.pdf)                   | Lecture      | [activity](Activities/0314.md) |
-| **03/19/2019**     | Team Up                                                                              | -            | activity                       |
+| **03/19/2019**     | Team Up                                                                              | -            | [activity](Activities/0319.md) |
 | **03/21/2019**     | Team-based S/W Design 1                                                              | -            |                                |
-| **03/26/2019**     | Team-based S/W Design 2                                                              | Presentation | activity                       |
+| **03/26/2019**     | Team-based S/W Design 2                                                              | Presentation | [activity](Activities/0326.md) |
 | **03/28/2019**     | Team-based S/W Design 3                                                              | -            |                                |
 | **04/02/2019**     | Team-based S/W Design 4                                                              | -            |                                |
 | **04/04/2019**     | Team-based S/W Design 5                                                              | Presentation | activity                       |
