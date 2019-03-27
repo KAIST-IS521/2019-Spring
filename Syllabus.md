@@ -13,7 +13,7 @@
 | **03/26/2019**     | Team-based S/W Design 2                                                              | Presentation | [activity](Activities/0326.md) |
 | **03/28/2019**     | Team-based S/W Design 3                                                              | -            |                                |
 | **04/02/2019**     | Team-based S/W Design 4                                                              | -            |                                |
-| **04/04/2019**     | Team-based S/W Design 5                                                              | Presentation | activity                       |
+| **04/04/2019**     | Team-based S/W Design 5                                                              | Presentation | [activity](Activities/0404.md) |
 | **04/09/2019**     | Security Auditing                                                                    | -            |                                |
 | **04/11/2019**     | Security Auditing                                                                    | -            |                                |
 | ~~**04/16/2019**~~ | Midterm Week                                                                         | -            | -                              |
