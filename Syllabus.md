@@ -14,13 +14,13 @@
 | **03/28/2019**     | Team-based S/W Design 3                                                              | -            |                                |
 | **04/02/2019**     | Team-based S/W Design 4                                                              | -            |                                |
 | **04/04/2019**     | Team-based S/W Design 5                                                              | Presentation | [activity](Activities/0404.md) |
-| **04/09/2019**     | Security Auditing                                                                    | -            |                                |
-| **04/11/2019**     | Security Auditing                                                                    | -            |                                |
+| **04/09/2019**     | Team-based S/W Design 6                                                              | -            |                                |
+| **04/11/2019**     | Team-based S/W Design 7                                                              | -            |                                |
 | ~~**04/16/2019**~~ | Midterm Week                                                                         | -            | -                              |
 | ~~**04/18/2019**~~ | Midterm Week                                                                         | -            | -                              |
-| **04/23/2019**     | Midterm Presentation                                                                 | Presentation | activity                       |
-| **04/25/2019**     |                                                                                      |              |                                |
-| **04/30/2019**     |                                                                                      |              |                                |
+| **04/23/2019**     | Security Auditing                                                                    | -            | activity                       |
+| **04/25/2019**     | Security Auditing                                                                    | -            |                                |
+| **04/30/2019**     | Backdoor Presentation                                                                | Presentation | activity                       |
 | **05/02/2019**     |                                                                                      |              |                                |
 | **05/07/2019**     |                                                                                      |              |                                |
 | **05/09/2019**     |                                                                                      |              |                                |
