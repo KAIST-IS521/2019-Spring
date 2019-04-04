@@ -18,18 +18,18 @@
 | **04/11/2019**     | Team-based S/W Design 7                                                              | -            |                                |
 | ~~**04/16/2019**~~ | Midterm Week                                                                         | -            | -                              |
 | ~~**04/18/2019**~~ | Midterm Week                                                                         | -            | -                              |
-| **04/23/2019**     | Security Auditing                                                                    | -            | activity                       |
-| **04/25/2019**     | Security Auditing                                                                    | -            |                                |
-| **04/30/2019**     | Backdoor Presentation                                                                | Presentation | activity                       |
-| **05/02/2019**     |                                                                                      |              |                                |
-| **05/07/2019**     |                                                                                      |              |                                |
-| **05/09/2019**     |                                                                                      |              |                                |
+| **04/23/2019**     | Team-based S/W Design 8                                                              | Presentation | [activity](Activities/0423.md) |
+| **04/25/2019**     | Security Auditing                                                                    | -            | activity                       |
+| **04/30/2019**     | Security Auditing                                                                    | -            |                                |
+| **05/02/2019**     | Security Auditing                                                                    |              |                                |
+| **05/07/2019**     | Final Presentation                                                                   | Presentation | activity                       |
+| **05/09/2019**     | Final Report                                                                         | Report       | activity                       |
 | **05/14/2019**     |                                                                                      |              |                                |
 | **05/16/2019**     |                                                                                      |              |                                |
 | **05/21/2019**     |                                                                                      |              |                                |
 | **05/23/2019**     |                                                                                      |              |                                |
-| **05/28/2019**     |                                                                                      |              |                                |
-| **05/30/2019**     |                                                                                      |              |                                |
+| **05/28/2019**     | No Class (Out of Town)                                                               |              |                                |
+| **05/30/2019**     | No Class (Out of Town)                                                               |              |                                |
 | **06/04/2019**     |                                                                                      |              |                                |
 | ~~**06/06/2019**~~ | Memorial Day (No Class)                                                              | -            | -                              |
 | ~~**06/11/2019**~~ | Final Week                                                                           | -            | -                              |
