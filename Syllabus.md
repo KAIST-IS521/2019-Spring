@@ -20,11 +20,11 @@
 | ~~**04/18/2019**~~ | Midterm Week                                                                         | -            | -                               |
 | **04/23/2019**     | Team-based S/W Design 8                                                              | Presentation | [activity](Activities/0423.md)  |
 | **04/25/2019**     | Team-based S/W Design 9                                                              | -            | Get ready for the next activity |
-| **04/30/2019**     | Security Auditing                                                                    | -            | activity                        |
-| **05/02/2019**     | Security Auditing                                                                    |              |                                 |
-| **05/07/2019**     | Final Presentation                                                                   | Presentation | activity                        |
-| **05/09/2019**     | Final Report                                                                         | Report       | activity                        |
-| **05/14/2019**     |                                                                                      |              |                                 |
+| **04/30/2019**     | Preparation Session                                                                  | Lecture      | [activity](Activities/0430.md)  |
+| **05/02/2019**     | Security Auditing                                                                    | -            |                                 |
+| **05/07/2019**     | Security Auditing                                                                    | -            | activity                        |
+| **05/09/2019**     | Final Presentation                                                                   | Presentation | activity                        |
+| **05/14/2019**     | Final Report                                                                         |              |                                 |
 | **05/16/2019**     |                                                                                      |              |                                 |
 | **05/21/2019**     |                                                                                      |              |                                 |
 | **05/23/2019**     |                                                                                      |              |                                 |
