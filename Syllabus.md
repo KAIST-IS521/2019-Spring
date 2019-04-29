@@ -23,8 +23,8 @@
 | **04/30/2019**     | Preparation Session                                                                  | Lecture      | [activity](Activities/0430.md)  |
 | **05/02/2019**     | Security Auditing                                                                    | -            |                                 |
 | **05/07/2019**     | Security Auditing                                                                    | -            | activity                        |
-| **05/09/2019**     | Final Presentation                                                                   | Presentation | activity                        |
-| **05/14/2019**     | Final Report                                                                         |              |                                 |
+| **05/09/2019**     | Presentation Preparation                                                             | Presentation | activity                        |
+| **05/14/2019**     | Final Presentation                                                                   |              |                                 |
 | **05/16/2019**     |                                                                                      |              |                                 |
 | **05/21/2019**     |                                                                                      |              |                                 |
 | **05/23/2019**     |                                                                                      |              |                                 |
