@@ -26,8 +26,8 @@
 | **05/09/2019**     | Presentation Preparation                                                             | -            |                                 |
 | **05/14/2019**     | Presentation Preparation                                                             | -            |                                 |
 | **05/16/2019**     | Final Presentation                                                                   | Presentation | [activity](Activities/0516.md)  |
-| **05/21/2019**     | AV Activity 1                                                                        | Lecture      | [activity](Activities/0521.md)  |
-| **05/23/2019**     | AV Activity 2                                                                        | -            |                                 |
+| **05/21/2019**     | Writing Activity 1 (No Slides)                                                       | Lecture      | [activity](Activities/0521.md)  |
+| **05/23/2019**     | Writing Activity 2                                                                   | -            |                                 |
 | **05/28/2019**     | No Class (Out of Town)                                                               | -            |                                 |
 | **05/30/2019**     | No Class (Out of Town)                                                               | -            |                                 |
 | **06/04/2019**     | Wrap-up                                                                              | Lecture      |                                 |
