@@ -29,7 +29,7 @@
 | **05/21/2019**     | Writing Activity 1 (No Slides)                                                       | Lecture      | [activity](Activities/0521.md)  |
 | **05/23/2019**     | Writing Activity 2                                                                   | -            |                                 |
 | **05/28/2019**     | No Class (Out of Town)                                                               | -            |                                 |
-| **05/30/2019**     | No Class (Out of Town)                                                               | -            |                                 |
+| **05/30/2019**     | No Class (Out of Town)                                                               | -            | [activity](Activities/0530.md)  |
 | **06/04/2019**     | Wrap-up                                                                              | Lecture      |                                 |
 | ~~**06/06/2019**~~ | Memorial Day (No Class)                                                              | -            |                                 |
 | ~~**06/11/2019**~~ | Final Week                                                                           | -            |                                 |
